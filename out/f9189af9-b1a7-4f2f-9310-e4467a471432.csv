@@ -1,0 +1,7 @@
+text,result
+"""I'm gon.....",Spam found
+"""SIX cha.....",Spam found
+"""URGENT!.....",Spam found
+I've bee.....,Spam found
+I HAVE A.....,Good no spam found
+hello.....,Good no spam found
